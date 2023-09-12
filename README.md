@@ -8,4 +8,5 @@ flowchart TD
   B -- No --> D[Do it!];
   C ----> E[Enjoy];
   D ----> E[Enjoy];
+  E --> A;
 ````
