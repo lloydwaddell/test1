@@ -10,3 +10,12 @@ flowchart TD
   D ----> E[Enjoy];
   E --> A;
 ````
+
+```mermaid
+
+classDiagram
+  class Award
+  class IssuedAward
+
+  Award -- IssuedAward
+```
