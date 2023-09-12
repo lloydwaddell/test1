@@ -12,7 +12,6 @@ flowchart TD
 ````
 
 ```mermaid
-
 classDiagram
   class Award
   class IssuedAward
